@@ -52,7 +52,7 @@ function App() {
       </article>
       <footer className="App__footer">
         <h2>
-        Alors ? Toujours pas convaincu d'embaucher un chauve? Si, après tous ces points vous avez à redire, c'est que vous êtes difficile ! ^^
+        Alors ? Toujours pas convaincu d'embaucher un chauve ? 
         </h2>
       </footer>
     </div>
